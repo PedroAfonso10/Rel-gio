@@ -1,4 +1,4 @@
-Tecnologias utilizadas
+⚙️ Tecnologias utilizadas
 
 - Python 3.x  
 - Tkinter para interface gráfica  
